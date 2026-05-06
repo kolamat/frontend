@@ -88,7 +88,7 @@ export const doctors = [
         name: 'Dr. Richard James',
         image: doc1,
         speciality: 'General Physician',
-        degree: 'MBBS,',
+        degree: 'MBBS',
         experience: '4 years',
         about: '',
         fees: 50,
@@ -102,12 +102,12 @@ export const doctors = [
         name: 'Dr. Richard James',
         image: doc1,
         speciality: 'General Physician',
-        degree: 'MBBS,',
+        degree: 'MBBS',
         experience: '4 years',
         about: '',
         fees: 50,
         adress: {
-            line1: '17th Cross, Richmond',
+            line1: '27th Cross, Richmond',
             line2: 'Circle, Ring Road, London',
         }
     },
@@ -116,12 +116,12 @@ export const doctors = [
         name: 'Dr. Sarah Patel',
         image: doc3,
         speciality: 'Dermatologist',
-        degree: 'MBBS,',
+        degree: 'MBBS',
         experience: '1 year',
         about: '',
         fees: 30,
         adress: {
-            line1: '17th Cross, Richmond',
+            line1: '37th Cross, Richmond',
             line2: 'Circle, Ring Road, London',
         }
     },
@@ -130,8 +130,22 @@ export const doctors = [
         name: 'Dr. Christopher lee',
         image: doc4,
         speciality: 'Pediatricians',
-        degree: 'MBBS,',
+        degree: 'MBBS',
         experience: '2 years',
+        about: '',
+        fees: 42,
+        adress: {
+            line1: '47th Cross, Richmond',
+            line2: 'Circle, Ring Road, London',
+        }
+    },
+    {
+        _id: 'doc5',
+        name: 'Dr. Jennifer Garcia',
+        image: doc5,
+        speciality: 'Neurologist',
+        degree: 'MBBS',
+        experience: '4 years',
         about: '',
         fees: 42,
         adress: {
