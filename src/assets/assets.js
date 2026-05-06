@@ -31,7 +31,7 @@ import doc13 from './doc13.png'
 import Dermatologist from './Dermatologist.svg'
 import Gastroenterologist from './Gastroenterologist.svg'
 import General_physician from './General_physician.svg'
-import Gynocologist from './Gynocologist.svg'
+import Gynecologist from './Gynecologist.svg'
 import Neurologist from './Neurologist.svg'
 import Pediatricians from './Pediatricians.svg'
 
@@ -54,3 +54,30 @@ export const assets = {
     stripe_logo,
     razorpay_logo,
 }
+
+export const specialityData = [
+    {
+        speciality: 'General Physician',
+        image: General_physician
+    },
+    {
+        speciality: 'Dermatologist',
+        image: Dermatologist
+    },
+    {
+        speciality: 'Gastroenterologist',
+        image: Gastroenterologist
+    },
+    {
+        speciality: 'Gynecologist',
+        image: Gynecologist
+    },
+    {
+        speciality: 'Neurologist',
+        image: Neurologist
+    },
+    {
+        speciality: 'Pediatricians',
+        image: Pediatricians
+    }
+]
