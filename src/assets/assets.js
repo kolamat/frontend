@@ -147,9 +147,9 @@ export const doctors = [
         degree: 'MBBS',
         experience: '4 years',
         about: '',
-        fees: 42,
+        fees: 50,
         adress: {
-            line1: '17th Cross, Richmond',
+            line1: '57th Cross, Richmond',
             line2: 'Circle, Ring Road, London',
         }
     },
