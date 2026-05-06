@@ -224,9 +224,9 @@ export const doctors = [
         }
     },
     {
-        _id: 'doc7',
+        _id: 'doc10',
         name: 'Dr. Chritopher Davis',
-        image: doc7,
+        image: doc10,
         speciality: 'General Physician',
         degree: 'MBBS',
         experience: '4 years',
