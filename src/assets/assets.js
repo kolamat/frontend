@@ -34,3 +34,23 @@ import General_physician from './General_physician.svg'
 import Gynocologist from './Gynocologist.svg'
 import Neurologist from './Neurologist.svg'
 import Pediatricians from './Pediatricians.svg'
+
+export const assets = {
+    appointment_img,
+header_img,
+group_profiles,
+profile_pic,
+contact_image,
+about_image,
+logo,
+dropdown_icon,
+menu_icon,
+cross_icon,
+chats_icon,
+verified_icon,
+arrow_icon,
+info_icon,
+upload_icon,
+stripe_logo,
+razorpay_logo,
+}
