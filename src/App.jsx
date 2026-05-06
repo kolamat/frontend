@@ -1,7 +1,7 @@
 const App = () => {
   return (
-    <div>
-    <p className="mx-4 sm:mx-[10%]">Hello, kazeem!</p>
+    <div className="mx-4 sm:mx-[10%]">
+    <p>Hello, kazeem!</p>
     </div>
   )
 }
