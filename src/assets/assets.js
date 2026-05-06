@@ -153,4 +153,18 @@ export const doctors = [
             line2: 'Circle, Ring Road, London',
         }
     },
+    {
+        _id: 'doc6',
+        name: 'Dr. Andrew Williams',
+        image: doc6,
+        speciality: 'Neurologist',
+        degree: 'MBBS',
+        experience: '4 years',
+        about: '',
+        fees: 50,
+        adress: {
+            line1: '57th Cross, Richmond',
+            line2: 'Circle, Ring Road, London',
+        }
+    },
 ]
