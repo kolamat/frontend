@@ -295,4 +295,18 @@ export const doctors = [
             line2: 'Circle, Ring Road, London',
         }
     },
+    {
+        _id: 'doc15',
+        name: 'Dr. Chritopher Davis',
+        image: doc15,
+        speciality: 'General Physician',
+        degree: 'MBBS',
+        experience: '4 years',
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 50,
+        adress: {
+            line1: '17th Cross, Richmond',
+            line2: 'Circle, Ring Road, London',
+        }
+    },
 ]
