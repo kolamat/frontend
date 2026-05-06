@@ -81,3 +81,62 @@ export const specialityData = [
         image: Pediatricians
     }
 ]
+
+export const doctors = [
+    {
+        _id: 'doc1',
+        name: 'Dr. Richard James',
+        image: doc1,
+        speciality: 'General Physician',
+        degree: 'MBBS,',
+        experience: '4 years',
+        about: '',
+        fees: 50,
+        adress: {
+            line1: '17th Cross, Richmond',
+            line2: 'Circle, Ring Road, London',
+        }
+    },
+    {
+        _id: 'doc1',
+        name: 'Dr. Richard James',
+        image: doc1,
+        speciality: 'General Physician',
+        degree: 'MBBS,',
+        experience: '4 years',
+        about: '',
+        fees: 50,
+        adress: {
+            line1: '17th Cross, Richmond',
+            line2: 'Circle, Ring Road, London',
+        }
+    },
+    {
+        _id: 'doc3',
+        name: 'Dr. Sarah Patel',
+        image: doc3,
+        speciality: 'Dermatologist',
+        degree: 'MBBS,',
+        experience: '1 year',
+        about: '',
+        fees: 30,
+        adress: {
+            line1: '17th Cross, Richmond',
+            line2: 'Circle, Ring Road, London',
+        }
+    },
+    {
+        _id: 'doc3',
+        name: 'Dr. Sarah Patel',
+        image: doc3,
+        speciality: 'Dermatologist',
+        degree: 'MBBS,',
+        experience: '1 year',
+        about: '',
+        fees: 30,
+        adress: {
+            line1: '17th Cross, Richmond',
+            line2: 'Circle, Ring Road, London',
+        }
+    },
+]
