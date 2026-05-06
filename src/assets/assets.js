@@ -98,14 +98,14 @@ export const doctors = [
         }
     },
     {
-        _id: 'doc1',
-        name: 'Dr. Richard James',
-        image: doc1,
+        _id: 'doc2',
+        name: 'Dr. Emily Larson',
+        image: doc2,
         speciality: 'General Physician',
         degree: 'MBBS',
-        experience: '4 years',
+        experience: '3 years',
         about: '',
-        fees: 50,
+        fees: 60,
         adress: {
             line1: '27th Cross, Richmond',
             line2: 'Circle, Ring Road, London',
@@ -164,6 +164,20 @@ export const doctors = [
         fees: 50,
         adress: {
             line1: '57th Cross, Richmond',
+            line2: 'Circle, Ring Road, London',
+        }
+    },
+    {
+        _id: 'doc7',
+        name: 'Dr. Chritopher Davis',
+        image: doc7,
+        speciality: 'General Physician',
+        degree: 'MBBS',
+        experience: '4 years',
+        about: '',
+        fees: 50,
+        adress: {
+            line1: '17th Cross, Richmond',
             line2: 'Circle, Ring Road, London',
         }
     },
