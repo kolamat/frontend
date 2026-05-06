@@ -90,7 +90,7 @@ export const doctors = [
         speciality: 'General Physician',
         degree: 'MBBS',
         experience: '4 years',
-        about: '',
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
         fees: 50,
         adress: {
             line1: '17th Cross, Richmond',
@@ -104,8 +104,8 @@ export const doctors = [
         speciality: 'General Physician',
         degree: 'MBBS',
         experience: '3 years',
-        about: '',
-        fees: 60,
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 50,
         adress: {
             line1: '27th Cross, Richmond',
             line2: 'Circle, Ring Road, London',
@@ -118,7 +118,7 @@ export const doctors = [
         speciality: 'Dermatologist',
         degree: 'MBBS',
         experience: '1 year',
-        about: '',
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
         fees: 30,
         adress: {
             line1: '37th Cross, Richmond',
@@ -132,7 +132,7 @@ export const doctors = [
         speciality: 'Pediatricians',
         degree: 'MBBS',
         experience: '2 years',
-        about: '',
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
         fees: 42,
         adress: {
             line1: '47th Cross, Richmond',
@@ -146,7 +146,7 @@ export const doctors = [
         speciality: 'Neurologist',
         degree: 'MBBS',
         experience: '4 years',
-        about: '',
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
         fees: 50,
         adress: {
             line1: '57th Cross, Richmond',
@@ -160,7 +160,7 @@ export const doctors = [
         speciality: 'Neurologist',
         degree: 'MBBS',
         experience: '4 years',
-        about: '',
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
         fees: 50,
         adress: {
             line1: '57th Cross, Richmond',
@@ -174,7 +174,7 @@ export const doctors = [
         speciality: 'General Physician',
         degree: 'MBBS',
         experience: '4 years',
-        about: '',
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
         fees: 50,
         adress: {
             line1: '17th Cross, Richmond',
@@ -188,7 +188,7 @@ export const doctors = [
         speciality: 'General Physician',
         degree: 'MBBS',
         experience: '4 years',
-        about: '',
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
         fees: 50,
         adress: {
             line1: '17th Cross, Richmond',
