@@ -126,14 +126,14 @@ export const doctors = [
         }
     },
     {
-        _id: 'doc3',
-        name: 'Dr. Sarah Patel',
-        image: doc3,
-        speciality: 'Dermatologist',
+        _id: 'doc4',
+        name: 'Dr. Christopher lee',
+        image: doc4,
+        speciality: 'Pediatricians',
         degree: 'MBBS,',
-        experience: '1 year',
+        experience: '2 years',
         about: '',
-        fees: 30,
+        fees: 42,
         adress: {
             line1: '17th Cross, Richmond',
             line2: 'Circle, Ring Road, London',
